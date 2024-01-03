@@ -1,0 +1,12 @@
+br\com\senac\financasv2\gui\Login$1.class
+br\com\senac\financasv2\gui\Listagem.class
+br\com\senac\financasv2\gui\Login$2.class
+br\com\senac\financasv2\persistencia\DespesaDAO.class
+br\com\senac\financasv2\persistencia\UsuarioDAO.class
+br\com\senac\financasv2\persistencia\JPAUtil.class
+br\com\senac\financasv2\gui\Listagem$1.class
+br\com\senac\financasv2\gui\Login.class
+br\com\senac\financasv2\persistencia\Usuario.class
+br\com\senac\financasv2\FinancasV2.class
+br\com\senac\financasv2\persistencia\Despesa.class
+br\com\senac\financasv2\gui\Listagem$2.class

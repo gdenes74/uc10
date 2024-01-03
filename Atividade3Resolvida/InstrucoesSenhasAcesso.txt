@@ -1,0 +1,14 @@
+Boa noite, 
+
+A tela de login, vou esclarecer para ficar mais facil o acesso, 
+
+login> jorge@email.com Senha> 123 usuario adm
+
+           lourdes@email.com Senha> 123456 usuario operador
+
+           renato@email.com Senha> 987654 usuario usuario.
+
+
+Atenciosamente, 
+
+Guilherme 
